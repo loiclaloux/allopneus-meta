@@ -1,0 +1,33 @@
+[submodule "www/allopneus-api"]
+	path = www/allopneus-api
+	url = git@github.com:Groupe-Hevea/allopneus-api.git
+[submodule "www/allopneus-secure"]
+	path = www/allopneus-secure
+	url = git@github.com:Groupe-Hevea/allopneus-secure.git
+[submodule "www/allopneus-site-desktop"]
+	path = www/allopneus-site-desktop
+	url = git@github.com:Groupe-Hevea/allopneus-site-desktop.git
+[submodule "www/allopneus-site-mobile"]
+	path = www/allopneus-site-mobile
+	url = git@github.com:Groupe-Hevea/allopneus-site-mobile.git
+[submodule "www/widget-manager"]
+	path = www/widget-manager
+	url = git@github.com:Groupe-Hevea/widget-manager.git
+[submodule "www/hevea-media-generator"]
+	path = www/hevea-media-generator
+	url = git@github.com:Groupe-Hevea/hevea-media-generator.git
+[submodule "www/allopneus-v2"]
+	path = www/allopneus-v2
+	url = git@github.com:Groupe-Hevea/allopneus-v2.git
+[submodule "www/allopneus-middleware"]
+	path = www/allopneus-middleware
+	url = git@github.com:Groupe-Hevea/allopneus-middleware.git
+[submodule "www/allopneus-frontend"]
+	path = www/allopneus-frontend
+	url = git@github.com:Groupe-Hevea/allopneus-frontend.git
+[submodule "www/hevea-stations-api"]
+	path = www/hevea-stations-api
+	url = git@github.com:Groupe-Hevea/hevea-stations-api.git
+[submodule "www/geo-autocomplete"]
+	path = www/geo-autocomplete
+	url = git@github.com:Groupe-Hevea/geo-autocomplete.git
